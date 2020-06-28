@@ -58,6 +58,10 @@ In this template...
       <li>Minsu's Dev Log: https://alstn2468.github.io/</li>
       <li>Yungi's Dev Blog: https://yungis.dev/</li>
       <li>< Taenylog />: https://taeny.dev/</li>
+      <li>brouk's devlog: https://brouk-devlog.netlify.com/</li>
+      <li>CoodingPenguin's Repository: https://cooding-penguin.netlify.com/</li>
+      <li>Garima's Tech Blog: https://garimasingh.netlify.app/ </li>
+      <li>DevRappers.dev: https://devrappers.dev/</li>
     </ul>
   </p>
 </details>
@@ -104,6 +108,8 @@ You can write...
 ```sh
 npm run post
 ```
+
+👉 Use **gatsby-post-gen** (https://github.com/JaeYeopHan/gatsby-post-gen)
 
 ### 4. Fix meta data
 
@@ -168,6 +174,7 @@ src/styles
 - Favicon image! (replace file in `/content/assets/felog.png`)
 - Header gradient! (\$theme-gradient `/styles/variables.scss`)
 - Utterances repository! (replace repository address in `/gatsby-meta-config.js`)
+  - ⚠️ Please check, this guide(https://utteranc.es/)
 
 ## ☕ Like it?
 
